@@ -1,1 +1,1 @@
-int a,b,c;
+print("algo bien")
